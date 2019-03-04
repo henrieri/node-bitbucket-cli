@@ -1,0 +1,24 @@
+{
+  "name": "@henrieri/bitbucket-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to communicate with bitbucket cli",
+  "main": "index.js",
+  "keywords": [
+    "bitbucket",
+    "productivity",
+    "cli"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/henrieri/node-bitbucket-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrieri/node-bitbucket-cli/issues"
+  },
+  "homepage": "https://github.com/henrieri/node-bitbucket-cli#readme"
+}
